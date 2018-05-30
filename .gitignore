@@ -1,0 +1,11 @@
+/.idea/
+/appmon-venv/
+*.iml
+
+*.apk
+
+.DS_Store
+
+/app_dumps
+
+*__pycache__*
